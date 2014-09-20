@@ -17,4 +17,6 @@
 //= require leaflet
 //= require leaflet/leaflet-providers
 //= require leaflet/leaflet.draw
+//= require leaflet/l.control.geosearch
+//= require leaflet/l.geosearch.provider.openstreetmap
 //= require_tree .

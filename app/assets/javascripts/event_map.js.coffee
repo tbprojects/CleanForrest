@@ -4,6 +4,7 @@ class window.EventMap
   constructor: (@nodeId) ->
     @createMap()
     @createEditableLayers()
+    @createSearch()
     @resetControls()
     @reactOnDraw()
     @locate()
@@ -20,6 +21,9 @@ class window.EventMap
   createEditableLayers: ->
     @editableLayers = new L.FeatureGroup()
     @map.addLayer(@editableLayers)
+
+  createSearch: ->
+    new L.Control.GeoSearch(provider: new L.GeoSearch.Provider.OpenStreetMap(), showMarker: false).addTo(@map)
 
   resetControls: ->
     @map.removeControl(@drawControl) if @drawControl

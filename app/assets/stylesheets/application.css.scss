@@ -14,6 +14,7 @@
  *= depend_on_asset "layers-2x.png"
  *= require leaflet
  *= require leaflet/leaflet.draw
+ *= require leaflet/l.geosearch
  *= require_tree .
  *= require_self
  */
