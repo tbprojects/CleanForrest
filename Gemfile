@@ -20,6 +20,7 @@ gem 'omniauth-facebook'
 gem 'figaro'
 gem 'simple_form'
 gem 'decent_exposure'
+gem 'better_errors'
 
 gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
 
