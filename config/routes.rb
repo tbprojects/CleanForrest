@@ -9,7 +9,7 @@ Rails.application.routes.draw do
 
   resource :my_profile, only: [:show, :edit, :update], controller: 'my_profile'
   resources :events
-  root to: 'comfy/blog/posts#index'
+  root to: 'blog_posts#index'
 
   # Make sure this routeset is defined last
   comfy_route :cms, path: '/', sitemap: false
