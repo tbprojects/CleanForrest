@@ -22,6 +22,7 @@ gem 'simple_form'
 gem 'decent_exposure'
 
 gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
+gem 'comfy_blog', '~> 1.12.0'
 
 group :development do
   gem 'better_errors'
