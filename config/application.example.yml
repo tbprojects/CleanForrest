@@ -7,5 +7,5 @@
 # makes 'Your_Gmail_Username' available as ENV["GMAIL_USERNAME"]
 # Add application configuration variables here, as shown below.
 #
-SAMPLE_VAR: First User
-
+FACEBOOK_APP_ID: 999999999999999
+FACEBOOK_APP_SECRET: 01ef01ef01ef01ef01ef01ef01ef01ef
