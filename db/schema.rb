@@ -135,6 +135,16 @@ ActiveRecord::Schema.define(version: 20140920092626) do
   add_index "comfy_cms_snippets", ["site_id", "identifier"], name: "index_comfy_cms_snippets_on_site_id_and_identifier", unique: true, using: :btree
   add_index "comfy_cms_snippets", ["site_id", "position"], name: "index_comfy_cms_snippets_on_site_id_and_position", using: :btree
 
+  create_table "events", force: true do |t|
+    t.string   "name"
+    t.text     "description"
+    t.datetime "start_at"
+    t.datetime "end_at"
+    t.integer  "user_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "users", force: true do |t|
     t.string   "email",                  default: "", null: false
     t.string   "encrypted_password",     default: "", null: false

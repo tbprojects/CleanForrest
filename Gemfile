@@ -17,6 +17,9 @@ gem 'pg'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'figaro'
+gem 'simple_form'
+gem 'decent_exposure'
 
 gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
 
