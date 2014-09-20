@@ -14,6 +14,9 @@ gem 'bootstrap-sass'
 gem 'high_voltage'
 gem 'slim-rails'
 gem 'pg'
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 group :development do
   gem 'better_errors'
