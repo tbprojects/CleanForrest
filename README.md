@@ -1,48 +1,31 @@
-Cleanforrest
-================
+# Czyste Lasy
 
-This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
-provided by the [RailsApps Project](http://railsapps.github.io/).
+Aplikacja wspomagająca organizację zabaw terenowych, mających na celu sprzątanie terenów leśnych / górskich.
+Implementowana podczas hackathonu [IT w Słusznej Sprawie](https://www.facebook.com/events/281593035376316/?fref=ts)
 
-Rails Composer is open source and supported by subscribers. Please join RailsApps to support development of Rails Composer.
+## Development
 
-Problems? Issues?
------------
+### 1. Setup aplikacji
 
-Need help? Ask on Stack Overflow with the tag 'railsapps.'
+    git clone git@github.com:tbprojects/CleanForrest.git
+    cd CleanForrest
+    bundle install
+    cp config/database.example.yml config/database.yml          # configure access to database
+    cp config/application.example.yml config/application.yml    # configure access to services
+    rake db:create db:migrate db:seed
 
-Your application contains diagnostics in the README file. Please provide a copy of the README file when reporting any issues.
+### 2. Uruchomienie aplikacji
 
-If the application doesn’t work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
-and include the diagnostics.
+Polecenie ```guard``` które uruchomi web serwer oraz będzie wykonywało testy automatyczne na zmienionych plikach.
 
-Ruby on Rails
--------------
+## Technologie
 
-This application requires:
+### Apps & Libraries
 
-- Ruby 2.0.0
-- Rails 4.1.6
-
-Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
-
-Getting Started
----------------
-
-Documentation and Support
--------------------------
-
-Issues
--------------
-
-Similar Projects
-----------------
-
-Contributing
-------------
-
-Credits
--------
-
-License
--------
+* Ruby 2.1.2
+* Rails 4.1.6
+* SQLite
+* Template Engine: Slim
+* Testing Framework: RSpec, Factory Girl
+* Form Builder: SimpleForm
+* Authentication: Devise
