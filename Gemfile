@@ -27,6 +27,7 @@ gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_20]
+  gem 'pry-debugger'
   gem 'guard-bundler'
   gem 'guard-rails'
   gem 'guard-rspec'
