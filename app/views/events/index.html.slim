@@ -1,0 +1,27 @@
+.page-header
+  h1= t('.header')
+
+  .page-actions
+    = link_to t('events.create.link'), new_event_path
+
+table
+  thead
+    tr
+      th= t('events.index.name')
+      th= t('event.index.description')
+      th= t('event.index.start_at')
+      th= t('event.index.end_at')
+      th
+
+
+
+  - events.each do |event|
+    tr
+      td= event.name
+      td= event.description
+      td= event.start_at
+      td= event.end_at
+
+
+
+
