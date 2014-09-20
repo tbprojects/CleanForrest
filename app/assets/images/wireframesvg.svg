@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9943 custom"
+   sodipodi:docname="wireframesvg.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="519.36721"
+     inkscape:cy="1164.0829"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="131.19086,957.52793"
+       orientation="210.00001,0"
+       id="guide11464" />
+    <sodipodi:guide
+       position="131.19086,747.52792"
+       orientation="0,270"
+       id="guide11466" />
+    <sodipodi:guide
+       position="401.19086,747.52792"
+       orientation="-210.00001,0"
+       id="guide11468" />
+    <sodipodi:guide
+       position="401.19086,957.52793"
+       orientation="0,-270"
+       id="guide11470" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,447.63782)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="1199.9265"
+       height="80"
+       x="1.5020154"
+       y="-447.63782" />
+    <g
+       transform="matrix(0.4,0,0,0.4,-9.9265567,-499.43983)"
+       id="layer1-1"
+       inkscape:label="Layer 1">
+      <g
+         transform="translate(-866.42858,-775.71429)"
+         id="g11423">
+        <g
+           inkscape:label="#g7944"
+           id="g11379"
+           transform="matrix(2.0002734,0,0,2.0003165,88.241487,53.393385)">
+          <rect
+             y="425.84558"
+             x="403.32413"
+             height="99.984177"
+             width="99.984177"
+             id="rect11381"
+             style="color:#000000;fill:#6ac6c3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+          <path
+             sodipodi:nodetypes="cscccscscsscssccccccccscsscccccc"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 503.30856,436.82431 c 0,0 -18.141,6.70829 -18.141,6.70829 0,0 -4.2977,0.19472 -4.2977,0.19472 0,0 -16.78445,-3.22375 -16.78445,-3.22375 0,0 -7.04315,0.77089 -7.04315,0.77089 0,0 -9.13251,0.25665 -9.13251,0.25665 0,0 -2.88641,0.86467 -2.88641,0.86467 0,0 -12.1178,9.97157 -12.1178,9.97157 0,0 -0.98738,1.38156 -0.98738,1.38156 0,0 0.38057,0.95457 0.38057,0.95457 0,0 1.65142,0.75158 1.65142,0.75158 0,0 0.42085,0.0809 0.42085,0.0809 0,0 -0.26767,0.76517 -0.26767,0.76517 0,0 2.44464,1.06519 2.44464,1.06519 0,0 0.97668,-0.49881 0.97668,-0.49881 0,0 8.32221,-7.47683 8.32221,-7.47683 0,0 9.11268,0.56503 9.11268,0.56503 0,0 4.64068,1.8309 4.64068,1.8309 l 4.6604,0.70081 c 0,0 -1.13662,0.59902 -1.13662,0.59902 0,0 -12.54767,-0.42228 -12.54767,-0.42228 0,0 -3.09576,0.4015 -3.09576,0.4015 0,0 -0.41771,3.71935 -0.41771,3.71935 0,0 1.07907,0.99354 1.07907,0.99354 0,0 5.33971,1.56657 5.33971,1.56657 0,0 6.45017,0.79569 6.45017,0.79569 0,0 5.06465,0.0205 5.06465,0.0205 0,0 12.63331,2.10232 12.63331,2.10232 0,0 5.18747,-1.20873 5.18747,-1.20873 0,0 3.72918,-2.12 3.72918,-2.12 l 16.76404,-9.46096 -0.002,-12.64966 z"
+             id="path11413"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g11415"
+           transform="matrix(3.2058348,0,0,3.1160854,947.16249,991.0403)"
+           style="fill:#ffffff">
+          <g
+             id="g11417"
+             style="fill:#ffffff">
+            <line
+               id="line11419"
+               opacity=""
+               y2="0"
+               x2="0"
+               y1="0"
+               x1="0"
+               style="fill:#ffffff;stroke:#449fdb;stroke-width:0.79097866999999999" />
+          </g>
+          <path
+             id="path11421"
+             d="m 18,26 h 12 l -6,-8 h 4 l -6,-6 h 4 L 20,6 h 4 L 16,0 8,6 h 4 l -6,6 h 4 l -6,6 h 4 l -6,8 h 12 c 0,2 0,6 -2,6 h 8 c -2,0 -2,-4 -2,-6 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect11505"
+       width="300"
+       height="240"
+       x="-823.80914"
+       y="-385.88004" />
+    <rect
+       y="-370.88004"
+       x="-808.80914"
+       height="210"
+       width="270"
+       id="rect11507"
+       style="fill:#ffd5d5;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11509"
+       y="-342.72192"
+       x="-768.41339"
+       style="font-size:24px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan11511"
+         y="-342.72192"
+         x="-768.41339"
+         sodipodi:role="line">Bielsko-Biała</tspan></text>
+    <g
+       transform="translate(-704.74999,-344.81639)"
+       id="g11513">
+      <g
+         id="g11515">
+        <line
+           style="stroke:#449fdb;stroke-width:1"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           opacity=""
+           id="line11517" />
+      </g>
+    </g>
+    <g
+       transform="translate(-808.30914,-352.38004)"
+       id="g11519">
+      <g
+         id="g11521">
+        <line
+           style="stroke:#449fdb;stroke-width:1"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           opacity=""
+           id="line11523" />
+      </g>
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="M 16,0 C 10.477,0 6,4.477 6,10 6,20 16,32 16,32 16,32 26,20 26,10 26,4.477 21.523,0 16,0 z m 0,16 c -3.314,0 -6,-2.686 -6,-6 0,-3.314 2.686,-6 6,-6 3.314,0 6,2.686 6,6 0,3.314 -2.686,6 -6,6 z"
+         id="path11525" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal"
+       x="-768.41339"
+       y="-312.72192"
+       id="text11527"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-768.41339"
+         y="-312.72192"
+         id="tspan11529">Szyndzielnia</tspan></text>
+    <g
+       transform="translate(-808.30914,-287.24497)"
+       id="g11531">
+      <g
+         id="g11533">
+        <line
+           style="stroke:#449fdb;stroke-width:1"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           opacity=""
+           id="line11535" />
+      </g>
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 10,12 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,24 h 4 v 4 H 4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m -6,-6 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,18 h 4 v 4 H 4 z M 26,0 V 2 H 22 V 0 H 8 V 2 H 4 V 0 H 0 V 32 H 30 V 0 h -4 z m 2,30 H 2 V 8 h 26 v 22 z"
+         id="path11537" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text11539"
+       y="-261.72192"
+       x="-768.41339"
+       style="font-size:24px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan11541"
+         y="-261.72192"
+         x="-768.41339"
+         sodipodi:role="line">22 wrz, so</tspan></text>
+    <g
+       transform="translate(-808.30914,-221.95925)"
+       id="g11543">
+      <g
+         id="g11545">
+        <line
+           style="stroke:#449fdb;stroke-width:1"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="0"
+           opacity=""
+           id="line11547" />
+      </g>
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 29,18 c 2.281,0 1,6 -1,6 1,0 0,5 -2,5 0,2 -2,3 -4,3 -8.448,0 -5.477,-2.114 -14,-3 V 13 c 7.529,-2.258 15,-7.92 15,-13 1.656,0 6,2 0,12 0,0 5,0 6,0 3,0 2,6 0,6 z M 6,13 v 16 h 2 v 1 H 4 C 2.9,30 2,28.65 2,27 V 15 c 0,-1.65 0.9,-3 2,-3 h 4 v 1 H 6 z"
+         id="path11549" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal"
+       x="-768.41339"
+       y="-197.72191"
+       id="text11551"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-768.41339"
+         y="-197.72191"
+         id="tspan11553">join</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:500;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6ac6c3;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium;font-stretch:normal;font-variant:normal"
+       x="102.0254"
+       y="-394.17627"
+       id="text11738"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11740"
+         x="102.0254"
+         y="-394.17627">clean forest</tspan></text>
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect11742"
+       width="300"
+       height="1176.47"
+       x="901.50201"
+       y="-207.63782" />
+    <g
+       id="g12659">
+      <g
+         style="fill:#6ac6c3;fill-opacity:1"
+         id="g11519-0"
+         transform="matrix(0.73846154,0,0,0.73846154,925.27444,-121.09159)">
+        <g
+           style="fill:#6ac6c3;fill-opacity:1"
+           id="g11521-5">
+          <line
+             id="line11523-1"
+             opacity=""
+             y2="0"
+             x2="0"
+             y1="0"
+             x1="0"
+             style="fill:#6ac6c3;fill-opacity:1;stroke:#449fdb;stroke-width:1.35416663" />
+        </g>
+        <path
+           id="path11525-7"
+           d="M 16,0 C 10.477,0 6,4.477 6,10 6,20 16,32 16,32 16,32 26,20 26,10 26,4.477 21.523,0 16,0 z m 0,16 c -3.314,0 -6,-2.686 -6,-6 0,-3.314 2.686,-6 6,-6 3.314,0 6,2.686 6,6 0,3.314 -2.686,6 -6,6 z"
+           inkscape:connector-curvature="0"
+           style="fill:#6ac6c3;fill-opacity:1" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text12655"
+         y="-101.5112"
+         x="958.73627"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:16px;fill:#4d4d4d;fill-opacity:1"
+           y="-101.5112"
+           x="958.73627"
+           id="tspan12657"
+           sodipodi:role="line">Katowice, 13 paźdz, so</tspan></text>
+    </g>
+    <g
+       id="g12738"
+       transform="translate(44,1.1218567)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text12726"
+         y="-403.78067"
+         x="921.14288"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-403.78067"
+           x="921.14288"
+           id="tspan12728"
+           sodipodi:role="line">about</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1081.1428"
+         y="-403.78067"
+         id="text12730"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12732"
+           x="1081.1428"
+           y="-403.78067">log in</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="996.56592"
+         y="-403.78067"
+         id="text12734"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12736"
+           x="996.56592"
+           y="-403.78067">events</tspan></text>
+    </g>
+    <g
+       id="g17107"
+       transform="translate(0,-2.999997)">
+      <g
+         id="g15076">
+        <g
+           id="g14813"
+           transform="translate(-114.68883,-447.47207)">
+          <rect
+             style="fill:#6ac6c3;fill-opacity:1;stroke:none"
+             id="rect14815"
+             width="300"
+             height="150"
+             x="116.19085"
+             y="92.834251" />
+          <g
+             style="fill:#ffffff"
+             transform="translate(15,0)"
+             id="g14817">
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               x="171.58659"
+               y="132.99237"
+               id="text14819"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="171.58659"
+                 y="132.99237"
+                 id="tspan14821">Bielsko-Biała</tspan></text>
+            <g
+               style="fill:#ffffff"
+               id="g14823"
+               transform="translate(235.25001,130.8979)">
+              <g
+                 style="fill:#ffffff"
+                 id="g14825">
+                <line
+                   id="line14827"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffffff"
+               id="g14829"
+               transform="matrix(0.73846154,0,0,0.73846154,131.56009,121.70348)">
+              <g
+                 style="fill:#ffffff"
+                 id="g14831">
+                <line
+                   id="line14833"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663" />
+              </g>
+              <path
+                 id="path14835"
+                 d="M 16,0 C 10.477,0 6,4.477 6,10 6,20 16,32 16,32 16,32 26,20 26,10 26,4.477 21.523,0 16,0 z m 0,16 c -3.314,0 -6,-2.686 -6,-6 0,-3.314 2.686,-6 6,-6 3.314,0 6,2.686 6,6 0,3.314 -2.686,6 -6,6 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text14837"
+               y="150.99237"
+               x="171.58659"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 id="tspan14839"
+                 y="150.99237"
+                 x="171.58659"
+                 sodipodi:role="line">Szyndzielnia</tspan></text>
+            <g
+               style="fill:#ffffff"
+               id="g14841"
+               transform="matrix(0.73846154,0,0,0.73846154,131.56009,168.83855)">
+              <g
+                 style="fill:#ffffff"
+                 id="g14843">
+                <line
+                   id="line14845"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663" />
+              </g>
+              <path
+                 id="path14847"
+                 d="m 10,12 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,24 h 4 v 4 H 4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m -6,-6 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,18 h 4 v 4 H 4 z M 26,0 V 2 H 22 V 0 H 8 V 2 H 4 V 0 H 0 V 32 H 30 V 0 h -4 z m 2,30 H 2 V 8 h 26 v 22 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               x="171.58659"
+               y="183.99237"
+               id="text14849"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="171.58659"
+                 y="183.99237"
+                 id="tspan14851">22 wrz, so</tspan></text>
+            <g
+               style="fill:#ffffff"
+               id="g14853"
+               transform="matrix(0.73846154,0,0,0.73846154,352.61749,200.73087)">
+              <g
+                 style="fill:#ffffff"
+                 id="g14855">
+                <line
+                   id="line14857"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663" />
+              </g>
+              <path
+                 id="path14859"
+                 d="m 29,18 c 2.281,0 1,6 -1,6 1,0 0,5 -2,5 0,2 -2,3 -4,3 -8.448,0 -5.477,-2.114 -14,-3 V 13 c 7.529,-2.258 15,-7.92 15,-13 1.656,0 6,2 0,12 0,0 5,0 6,0 3,0 2,6 0,6 z M 6,13 v 16 h 2 v 1 H 4 C 2.9,30 2,28.65 2,27 V 15 c 0,-1.65 0.9,-3 2,-3 h 4 v 1 H 6 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text15072"
+               y="220.59897"
+               x="306.64398"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 id="tspan15074"
+                 y="220.59897"
+                 x="306.64398"
+                 sodipodi:role="line">JOIN</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(300,0)"
+         id="g15266">
+        <g
+           transform="translate(-114.68883,-447.47207)"
+           id="g15268">
+          <rect
+             y="92.834251"
+             x="116.19085"
+             height="150"
+             width="300"
+             id="rect15270"
+             style="fill:#6ac6c3;fill-opacity:1;stroke:none" />
+          <g
+             id="g15272"
+             transform="translate(15,0)"
+             style="fill:#ffffff">
+            <text
+               sodipodi:linespacing="125%"
+               id="text15274"
+               y="132.99237"
+               x="171.58659"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 id="tspan15276"
+                 y="132.99237"
+                 x="171.58659"
+                 sodipodi:role="line">Bielsko-Biała</tspan></text>
+            <g
+               transform="translate(235.25001,130.8979)"
+               id="g15278"
+               style="fill:#ffffff">
+              <g
+                 id="g15280"
+                 style="fill:#ffffff">
+                <line
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1"
+                   x1="0"
+                   y1="0"
+                   x2="0"
+                   y2="0"
+                   opacity=""
+                   id="line15282" />
+              </g>
+            </g>
+            <g
+               transform="matrix(0.73846154,0,0,0.73846154,131.56009,121.70348)"
+               id="g15284"
+               style="fill:#ffffff">
+              <g
+                 id="g15286"
+                 style="fill:#ffffff">
+                <line
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663"
+                   x1="0"
+                   y1="0"
+                   x2="0"
+                   y2="0"
+                   opacity=""
+                   id="line15288" />
+              </g>
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="M 16,0 C 10.477,0 6,4.477 6,10 6,20 16,32 16,32 16,32 26,20 26,10 26,4.477 21.523,0 16,0 z m 0,16 c -3.314,0 -6,-2.686 -6,-6 0,-3.314 2.686,-6 6,-6 3.314,0 6,2.686 6,6 0,3.314 -2.686,6 -6,6 z"
+                 id="path15290" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               x="171.58659"
+               y="150.99237"
+               id="text15292"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="171.58659"
+                 y="150.99237"
+                 id="tspan15294">Szyndzielnia</tspan></text>
+            <g
+               transform="matrix(0.73846154,0,0,0.73846154,131.56009,168.83855)"
+               id="g15296"
+               style="fill:#ffffff">
+              <g
+                 id="g15298"
+                 style="fill:#ffffff">
+                <line
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663"
+                   x1="0"
+                   y1="0"
+                   x2="0"
+                   y2="0"
+                   opacity=""
+                   id="line15300" />
+              </g>
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 10,12 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,24 h 4 v 4 H 4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m -6,-6 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,18 h 4 v 4 H 4 z M 26,0 V 2 H 22 V 0 H 8 V 2 H 4 V 0 H 0 V 32 H 30 V 0 h -4 z m 2,30 H 2 V 8 h 26 v 22 z"
+                 id="path15302" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text15304"
+               y="183.99237"
+               x="171.58659"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 id="tspan15306"
+                 y="183.99237"
+                 x="171.58659"
+                 sodipodi:role="line">22 wrz, so</tspan></text>
+            <g
+               transform="matrix(0.73846154,0,0,0.73846154,352.61749,200.73087)"
+               id="g15308"
+               style="fill:#ffffff">
+              <g
+                 id="g15310"
+                 style="fill:#ffffff">
+                <line
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663"
+                   x1="0"
+                   y1="0"
+                   x2="0"
+                   y2="0"
+                   opacity=""
+                   id="line15312" />
+              </g>
+              <path
+                 style="fill:#ffffff"
+                 inkscape:connector-curvature="0"
+                 d="m 29,18 c 2.281,0 1,6 -1,6 1,0 0,5 -2,5 0,2 -2,3 -4,3 -8.448,0 -5.477,-2.114 -14,-3 V 13 c 7.529,-2.258 15,-7.92 15,-13 1.656,0 6,2 0,12 0,0 5,0 6,0 3,0 2,6 0,6 z M 6,13 v 16 h 2 v 1 H 4 C 2.9,30 2,28.65 2,27 V 15 c 0,-1.65 0.9,-3 2,-3 h 4 v 1 H 6 z"
+                 id="path15314" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               x="306.64398"
+               y="220.59897"
+               id="text15316"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="306.64398"
+                 y="220.59897"
+                 id="tspan15318">JOIN</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g15320"
+         transform="translate(600,0)">
+        <g
+           id="g15322"
+           transform="translate(-114.68883,-447.47207)">
+          <rect
+             style="fill:#6ac6c3;fill-opacity:1;stroke:none"
+             id="rect15324"
+             width="300"
+             height="150"
+             x="116.19085"
+             y="92.834251" />
+          <g
+             style="fill:#ffffff"
+             transform="translate(15,0)"
+             id="g15326">
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               x="171.58659"
+               y="132.99237"
+               id="text15328"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="171.58659"
+                 y="132.99237"
+                 id="tspan15330">Bielsko-Biała</tspan></text>
+            <g
+               style="fill:#ffffff"
+               id="g15332"
+               transform="translate(235.25001,130.8979)">
+              <g
+                 style="fill:#ffffff"
+                 id="g15334">
+                <line
+                   id="line15336"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1" />
+              </g>
+            </g>
+            <g
+               style="fill:#ffffff"
+               id="g15338"
+               transform="matrix(0.73846154,0,0,0.73846154,131.56009,121.70348)">
+              <g
+                 style="fill:#ffffff"
+                 id="g15340">
+                <line
+                   id="line15342"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663" />
+              </g>
+              <path
+                 id="path15344"
+                 d="M 16,0 C 10.477,0 6,4.477 6,10 6,20 16,32 16,32 16,32 26,20 26,10 26,4.477 21.523,0 16,0 z m 0,16 c -3.314,0 -6,-2.686 -6,-6 0,-3.314 2.686,-6 6,-6 3.314,0 6,2.686 6,6 0,3.314 -2.686,6 -6,6 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text15346"
+               y="150.99237"
+               x="171.58659"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 id="tspan15348"
+                 y="150.99237"
+                 x="171.58659"
+                 sodipodi:role="line">Szyndzielnia</tspan></text>
+            <g
+               style="fill:#ffffff"
+               id="g15350"
+               transform="matrix(0.73846154,0,0,0.73846154,131.56009,168.83855)">
+              <g
+                 style="fill:#ffffff"
+                 id="g15352">
+                <line
+                   id="line15354"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663" />
+              </g>
+              <path
+                 id="path15356"
+                 d="m 10,12 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,24 h 4 v 4 H 4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m -6,-6 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 H 22 z M 4,18 h 4 v 4 H 4 z M 26,0 V 2 H 22 V 0 H 8 V 2 H 4 V 0 H 0 V 32 H 30 V 0 h -4 z m 2,30 H 2 V 8 h 26 v 22 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               x="171.58659"
+               y="183.99237"
+               id="text15358"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="171.58659"
+                 y="183.99237"
+                 id="tspan15360">22 wrz, so</tspan></text>
+            <g
+               style="fill:#ffffff"
+               id="g15362"
+               transform="matrix(0.73846154,0,0,0.73846154,352.61749,200.73087)">
+              <g
+                 style="fill:#ffffff"
+                 id="g15364">
+                <line
+                   id="line15366"
+                   opacity=""
+                   y2="0"
+                   x2="0"
+                   y1="0"
+                   x1="0"
+                   style="fill:#ffffff;stroke:#449fdb;stroke-width:1.35416663" />
+              </g>
+              <path
+                 id="path15368"
+                 d="m 29,18 c 2.281,0 1,6 -1,6 1,0 0,5 -2,5 0,2 -2,3 -4,3 -8.448,0 -5.477,-2.114 -14,-3 V 13 c 7.529,-2.258 15,-7.92 15,-13 1.656,0 6,2 0,12 0,0 5,0 6,0 3,0 2,6 0,6 z M 6,13 v 16 h 2 v 1 H 4 C 2.9,30 2,28.65 2,27 V 15 c 0,-1.65 0.9,-3 2,-3 h 4 v 1 H 6 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text15370"
+               y="220.59897"
+               x="306.64398"
+               style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 id="tspan15372"
+                 y="220.59897"
+                 x="306.64398"
+                 sodipodi:role="line">JOIN</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(900,0)"
+         id="g15374">
+        <g
+           transform="translate(-114.68883,-447.47207)"
+           id="g15376">
+          <rect
+             y="92.834251"
+             x="116.19085"
+             height="150"
+             width="300"
+             id="rect15378"
+             style="fill:#6ac6c3;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <g
+         transform="translate(-20.355664,39.336241)"
+         id="g17099">
+        <g
+           id="g17090"
+           transform="translate(1159.4614,-334.72406)"
+           style="fill:#ffffff">
+          <g
+             id="icomoon-ignore"
+             style="fill:#ffffff">
+            <line
+               id="line17080"
+               opacity=""
+               y2="0"
+               x2="0"
+               y1="0"
+               x1="0"
+               style="fill:#ffffff;stroke:#449fdb;stroke-width:1" />
+          </g>
+          <path
+             id="path17082"
+             d="M 16,0 C 7.163,0 0,7.163 0,16 0,24.837 7.163,32 16,32 24.837,32 32,24.837 32,16 32,7.163 24.837,0 16,0 z m 2,18 v 8 H 14 V 18 H 6 v -4 h 8 V 6 h 4 v 8 h 8 v 4 h -8 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text17095"
+           y="-306.6889"
+           x="950.37897"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+           xml:space="preserve"><tspan
+             y="-306.6889"
+             x="950.37897"
+             id="tspan17097"
+             sodipodi:role="line">create new</tspan></text>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text17204"
+       y="-153.17627"
+       x="922.91803"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6ac6c3;fill-opacity:1;stroke:none;font-family:Futura;-inkscape-font-specification:Futura Medium"
+       xml:space="preserve"><tspan
+         y="-153.17627"
+         x="922.91803"
+         id="tspan17206"
+         sodipodi:role="line">coming events</tspan></text>
+  </g>
+</svg>
