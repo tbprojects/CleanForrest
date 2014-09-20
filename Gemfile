@@ -17,6 +17,7 @@ gem 'pg'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'figaro'
 
 group :development do
   gem 'better_errors'
