@@ -23,6 +23,8 @@ gem 'decent_exposure'
 gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
 gem 'comfy_blog', '~> 1.12.0'
 
+gem 'leaflet-rails', '~> 0.7.3'
+
 group :development do
   gem 'better_errors'
   gem 'pry-rails'

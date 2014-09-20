@@ -156,6 +156,7 @@ GEM
     kramdown (1.4.2)
     launchy (2.4.2)
       addressable (~> 2.3)
+    leaflet-rails (0.7.3)
     listen (2.7.9)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
@@ -339,6 +340,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   launchy
+  leaflet-rails (~> 0.7.3)
   omniauth
   omniauth-facebook
   pg

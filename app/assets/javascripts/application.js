@@ -14,4 +14,7 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap-sprockets
+//= require leaflet
+//= require leaflet/leaflet-providers
+//= require leaflet/leaflet.draw
 //= require_tree .
