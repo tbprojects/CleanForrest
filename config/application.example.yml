@@ -7,8 +7,8 @@
 # makes 'Your_Gmail_Username' available as ENV["GMAIL_USERNAME"]
 # Add application configuration variables here, as shown below.
 #
-FACEBOOK_APP_ID: 999999999999999
-FACEBOOK_APP_SECRET: 01ef01ef01ef01ef01ef01ef01ef01ef
-CMS_USERNAME: username
-CMS_PASSWORD: password
+FACEBOOK_APP_ID: "999999999999999"
+FACEBOOK_APP_SECRET: "01ef01ef01ef01ef01ef01ef01ef01ef"
+CMS_USERNAME: "username"
+CMS_PASSWORD: "password"
 
