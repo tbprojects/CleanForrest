@@ -1,10 +1,11 @@
 .page-header
   h1= t('.header')
 
-  .page-actions
-    = link_to t('events.create.link'), new_event_path
+.page-actions.text-right
+  = link_to 'Stwórz event', new_event_path, class: 'btn btn-success'
+  .br
 
-table
+table.table
   thead
     tr
       th= t('events.index.name')
@@ -13,14 +14,17 @@ table
       th= t('event.index.end_at')
       th
 
-
-
   - events.each do |event|
     tr
       td= event.name
       td= event.description
       td= event.start_at
       td= event.end_at
+      td
+        = link_to 'Show', event, class: 'btn btn-default'
+        = link_to 'Edit', edit_event_path(event), class: 'btn btn-primary'
+        = link_to 'Destroy', event, method: :delete, data: { confirm: 'Are you sure?' }, class: 'btn btn-danger'
+
 
 
 

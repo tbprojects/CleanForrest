@@ -1,13 +1,31 @@
-h1 Blog Posts
+.col-md-9
+  - near_events.each do |event|
+    .col-md-4
+      h1= event.name
+      p= event.description
+      p= event.start_at
+      p= event.end_at
+      .row
+        = link_to 'Dolacz', event, class: 'btn btn-success'
+        = link_to 'Wiecej informacji', event, class: 'btn btn-primary'
 
-- @posts.each do |post|
+.col-md-3.text-center
+    = link_to 'Stwórz własny event', new_event_path, class: 'btn btn-primary btn-lg'
 
-  h1= link_to post.title, comfy_blog_post_path(@cms_site.path, @blog.path, post.slug)
-  .author
-    = post.author
-  .date
-    = post.published_at.to_s(:db)
-  .content
-    = post.content.html_safe
+.col-md-9
+
+  - @posts.each do |post|
+
+    h1= link_to post.title, comfy_blog_post_path(@cms_site.path, @blog.path, post.slug)
+    .author
+      = post.author
+    .date
+      = post.published_at.to_s(:db)
+    .content
+      = post.content.html_safe
+
+.col-md-3.text-center
+  h1 Coming Events
+  = link_to 'Wyświetl wszystkie eventy', events_path, class: 'btn btn-primary btn-lg'
 
 = paginate @posts
