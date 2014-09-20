@@ -5,6 +5,8 @@ Rails.application.routes.draw do
     get 'sign_out', to: 'devise/sessions#destroy', as: :destroy_user_session
   end
 
+  resource :my_profile, only: :show, controller: 'my_profile'
+  
   comfy_route :cms_admin, :path => '/admin'
   root to: 'visitors#index'
   # Make sure this routeset is defined last
