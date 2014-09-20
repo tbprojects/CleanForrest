@@ -19,6 +19,7 @@ gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'figaro'
 gem 'simple_form'
+gem 'decent_exposure'
 
 group :development do
   gem 'better_errors'
