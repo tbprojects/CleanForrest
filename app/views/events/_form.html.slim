@@ -1,12 +1,19 @@
 = simple_form_for(event) do |f|
-  = f.error_notification
+  .row
+    .col-lg-6
+      = f.error_notification
+      .form-inputs
+        = f.input :name
+        = f.input :description
+        = f.input :start_at
+        = f.input :end_at
 
-  .form-inputs
-    = f.input :name
-    = f.input :description
-    = f.input :start_at
-    = f.input :end_at
+      .form-group
+        .col-sm-offset-2.col-sm-10
+          = f.button :submit, class: 'btn-primary'
 
-  .form-group
-    .col-sm-offset-2.col-sm-10
-      = f.button :submit, class: 'btn-primary'
+    .col-lg-6
+      #map.map
+
+coffee:
+  new EventMap('map')
