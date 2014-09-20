@@ -1,6 +1,8 @@
 br
 .panel.panel-default
   .panel-body
+    .page-actions.text-right
+      = link_to 'Edit', edit_event_path(event), class: 'btn btn-primary'
     .row
       .col-md-2
         = image_tag 'http://www.positioniseverything.net/articles/images/ds2-main.png'
