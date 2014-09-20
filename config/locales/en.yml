@@ -33,6 +33,7 @@ en:
     my_profile: "My profile"
     sign_out: "Sign out"
     sign_in: "Sign in with Facebook"
+    about_authors: "About Authors"
   common:
     edit: "Edit"
     update_success: "Updated successfully"
