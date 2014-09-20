@@ -24,8 +24,9 @@ gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
 
 group :development do
   gem 'better_errors'
-  gem 'binding_of_caller', :platforms=>[:mri_20]
-  gem 'pry-debugger'
+  gem 'pry-rails'
+  gem 'pry-remote'
+  gem 'binding_of_caller'
   gem 'guard-bundler'
   gem 'guard-rails'
   gem 'guard-rspec'
@@ -34,8 +35,6 @@ group :development do
   gem 'rb-fchange', :require=>false
   gem 'rb-fsevent', :require=>false
   gem 'rb-inotify', :require=>false
-  gem 'better_errors'
-  gem 'binding_of_caller'
 end
 group :development, :test do
   gem 'factory_girl_rails'
