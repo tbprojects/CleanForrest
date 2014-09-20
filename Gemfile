@@ -10,13 +10,15 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '~> 3.2.0'
 gem 'high_voltage'
 gem 'slim-rails'
 gem 'pg'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
+
+gem 'comfortable_mexican_sofa', github: 'SkylarkMade/comfortable-mexican-sofa'
 
 group :development do
   gem 'better_errors'
