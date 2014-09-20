@@ -18,6 +18,7 @@ gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'figaro'
+gem 'simple_form'
 
 group :development do
   gem 'better_errors'
