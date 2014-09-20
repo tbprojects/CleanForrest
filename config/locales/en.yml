@@ -21,3 +21,18 @@
 
 en:
   hello: "Hello world"
+  profile:
+    email: "Email"
+    nickname: "Nickname"
+  my_profile:
+    show:
+      header: "My profile"
+    edit:
+      header: "Edit profile"
+  navigation:
+    my_profile: "My profile"
+    sign_out: "Sign out"
+    sign_in: "Sign in with Facebook"
+  common:
+    edit: "Edit"
+    update_success: "Updated successfully"

@@ -7,6 +7,7 @@ class User < ActiveRecord::Base
     where(provider: auth.provider, uid: auth.uid).first_or_create do |user|
       user.email = auth.info.email
       user.nickname = auth.info.name
+      user.image_url = auth.info.image
     end
   end
 end

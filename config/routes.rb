@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   comfy_route :cms_admin, path: '/admin'
   comfy_route :blog_admin, path: 'admin'
 
+  resource :my_profile, only: [:show, :edit, :update], controller: 'my_profile'  
   root to: 'comfy/blog/posts#index'
 
   # Make sure this routeset is defined last

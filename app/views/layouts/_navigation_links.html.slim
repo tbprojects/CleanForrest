@@ -1,5 +1,7 @@
 li= link_to 'About Authors', '/about-authors'
 - if current_user
-  li= link_to 'Sign out', destroy_user_session_path
+  li= link_to t('navigation.my_profile'), my_profile_path
+  |
+  li= link_to t('navigation.sign_out'), destroy_user_session_path
 - else
-  li= link_to 'Sign in with Facebook', user_omniauth_authorize_path(:facebook)
+  li= link_to t('navigation.sign_in'), user_omniauth_authorize_path(:facebook)

@@ -1,0 +1,5 @@
+h1= t('my_profile.edit.header')
+
+= simple_form_for current_user, url: my_profile_path, method: :put do |f|
+  = f.input :nickname
+  = f.submit

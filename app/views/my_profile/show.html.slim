@@ -1,0 +1,10 @@
+h1= t('my_profile.show.header')
+= link_to t('common.edit'), edit_my_profile_path
+
+= image_tag current_user.image_url
+
+b= t('profile.email')
+= current_user.email
+br
+b= t('profile.nickname')
+= current_user.nickname
