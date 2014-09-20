@@ -2,13 +2,7 @@ class EventsController < ApplicationController
   expose(:event, attributes: :event_params)
   expose(:events)
 
-
-  def index
-
-  end
-
   def create
-    creator_id = current_user
     if event.save
       redirect_to event, notice: t('events.create.success')
     else
